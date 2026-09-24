@@ -1,5 +1,7 @@
 # KitoDevKitDebug
 
+**[Documentation](https://wyksofts-inc.github.io/KitoDevKitDebug/documentation/kitodevkitdebug/)**
+
 The developer/QA umbrella — every Kito debug tool in one dependency:
 [KitoNetKit](https://github.com/WykSofts-Inc/KitoNetKit) (network condition
 simulation) and [KitoFillKit](https://github.com/WykSofts-Inc/KitoFillKit)
